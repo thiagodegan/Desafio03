@@ -42,13 +42,15 @@ https://wetransfer.com/downloads/97ae23b6034b381e0adfd01cfdd720c120191117081957/
 A demanda inicial do cliente é que ele precisa saber o que está acontecendo.
 
 Quer um panorama de cada uma das situações listadas.
-
  
 
 Particularmente, acredito que conseguimos ir mais fundo que isso.
-
 Cada grupo tem “direito” a 3 perguntas, só me responder esse e-mail.
 
- 
-
 Vamos apresentar 5 propostas diferentes para ele no dia 29/11.
+
+
+## Links de acesso:
+
+** GIT: https://github.com/thiagodegan/Desafio03
+** Trello: https://trello.com/b/gkFk2rN3/desafio-3
